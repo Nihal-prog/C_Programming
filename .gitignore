@@ -1,0 +1,14 @@
+### To avoid pushing ELF executables to the repository
+## Ignore all files
+*
+
+## BUT, not directories
+!*/
+
+## And, NOT C sources
+!*.c
+!*.h
+
+## Of course, not the .gitignore or future README.md itself
+!.gitignore
+!*.md
