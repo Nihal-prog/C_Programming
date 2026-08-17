@@ -12,3 +12,6 @@
 ## Of course, not the .gitignore or future README.md itself
 !.gitignore
 !*.md
+
+## Ignore this rough file
+rough.c
